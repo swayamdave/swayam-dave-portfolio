@@ -1,14 +1,13 @@
 <!-- ---
-title: Senior Detective
-date: 1990 - Present
-url: http://ropibbe.nf/savadru
-location: Los Angeles, California
-org: Los Angeles Police Department (LAPD)
-tags: ["Law Enforcement", "Police Work", "Tactical Operations", "Case Management"]
+title: Virtual Space
+date: 2024
+url: https://virtualspace.vercel.app/
+location: Rajkot, India
+org: Virtual Space
+tags: ["logo generator", "qr-code generator", "text-to-speech generator", "gradient generator"]
 ---
 
-- Lead investigations into organized crime, drug trafficking, and high-profile criminal activities.
-- Conducted extensive surveillance operations utilizing advanced equipment and techniques to gather critical intelligence.
-- Collaborated with federal agencies such as the FBI and DEA on joint task forces to dismantle criminal syndicates.
-- Played a pivotal role in numerous undercover operations, successfully infiltrating criminal organizations and gathering actionable evidence for prosecution.
-- Trained and mentored junior officers in surveillance tactics, undercover operations, and tactical maneuvers. -->
+- Logo Generator: Create unique logos with AI, perfect for expressing your brand's identity.ies.
+- Voice Generator: Convert text to natural-sounding speech in multiple languages and accents.
+- QR Code Generator: Effortlessly generate QR codes for sharing information and enhancing engagement.
+- Gradient Generator: Design captivating color gradients with ease for various creative projects. -->
