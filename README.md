@@ -54,17 +54,6 @@ Astro-CV-Esquelete is a free, easy-to-use CV template with a clean design. Just 
      ┣ 📜tailwind.config.mjs
      ┗ 📜tsconfig.json
 
-## Installation
-
-#### Commands
-
-All commands are run from the root of the project, from a terminal:
-
-| Command         | Action                                      |
-| :-------------- | :------------------------------------------ |
-| `npm install`   | Installs dependencies                       |
-| `npm run dev`   | Starts local dev server at `localhost:4321` |
-| `npm run build` | Build your production site to `./dist/`     |
 
 ## Tech Stack
 
@@ -101,7 +90,7 @@ To remove an existing field, simply comment out the `<AccordionLayout />` compon
 
 ## Demo
 
-[astro-cv-esquelete](https://astro-cv-esquelete.vercel.app/ "astro-cv-esquelete")
+[astro-cv-esquelete](https://swayamdave-portfolio.vercel.app")
 
  ![alt text](https://github.com/mmouzo/astro-cv-esquelete/blob/main/public/snap_project.webp?raw=true)
 
